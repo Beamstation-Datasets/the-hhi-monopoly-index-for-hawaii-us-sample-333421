@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Hawaii, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `333421` |
 | Location | Hawaii |
 | Category | Restaurants |
-| Full dataset size | 81 records |
-| Free sample size | 3 records (3.7%) |
-| Last export | 2026-04-01T00:40:22.144645+00:00 |
+| Full dataset size | 111 records |
+| Free sample size | 11 records (9.91%) |
+| Last export | 2026-04-15T02:31:16.741563+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-hawaii-us-sample-333421/releases/download/sample-latest/beamstation_333421_restaurants-us-hi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
