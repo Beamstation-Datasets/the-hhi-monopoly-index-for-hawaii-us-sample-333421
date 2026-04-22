@@ -1,12 +1,12 @@
 {
-  "export_job_id": "845e98ca-2d80-4231-9dde-27b882b94b03",
+  "export_job_id": "280f00a9-71ee-40d2-8f80-5fc92da20c75",
   "id_short": 333421,
-  "published_at": "2026-04-18T07:53:25Z",
+  "published_at": "2026-04-22T19:34:48Z",
   "repo_name": "the-hhi-monopoly-index-for-hawaii-us-sample-333421",
   "sample_asset_name": "beamstation_333421_restaurants-us-hi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/333421/beamstation_333421_restaurants-us-hi_SAMPLE_DIST.csv",
-  "sample_records": 11,
-  "sample_sha256": "4871f1f252c3005fa20853b05f123a4b39b8a2424185a390fb5015b0f266ef58",
-  "sample_size_bytes": 60799,
-  "total_records": 111
+  "sample_records": 6,
+  "sample_sha256": "cacb0970a073912e9dd2fe291a8c1cfd8d0481d17bd25926cd3e58db7bed8d8b",
+  "sample_size_bytes": 37226,
+  "total_records": 62
 }
